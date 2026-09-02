@@ -15,8 +15,9 @@ const events = [
   { d: new Date(2026, 4, 6), v: Venue.Tram},
   { d: new Date(2026, 5, 3), v: Venue.Tram},
   { d: new Date(2026, 6, 1), v: Venue.Tram},
-  { d: new Date(2026, 8, 2), v: Venue.Tram},
   { d: new Date(2026, 9, 7), v: Venue.Tram},
+  { d: new Date(2026, 10, 4), v: Venue.Tram},
+  { d: new Date(2026, 11, 2), v: Venue.Tram}
 ]
 
 
